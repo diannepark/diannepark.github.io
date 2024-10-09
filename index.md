@@ -4,4 +4,17 @@
 
 the body of this subsection
 
-### 
+### sub-section header
+
+un-ordered list:
+* first
+* second
+* third
+
+ordered list:
+1. first
+2. second
+3. third
+
+add in a figure:
+![alt-text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
