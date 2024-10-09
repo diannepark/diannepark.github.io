@@ -19,3 +19,6 @@ ordered list:
 add in a figure:
 
 ![alt-text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
+
+adding in another photo:
+![another alt-text photo](https://github.com/diannepark/diannepark.github.io/blob/main/savedphotogithub.png)
