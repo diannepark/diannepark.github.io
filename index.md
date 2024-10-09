@@ -23,3 +23,7 @@ add in a figure:
 adding in another photo:
 
 ![another alt-text photo](https://github.com/diannepark/diannepark.github.io/blob/main/savedphotogithub.png)
+
+#### last thing
+
+link to is445 fa24: [link to is445 fa24](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2024/)
