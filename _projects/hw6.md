@@ -20,7 +20,7 @@ Below are links to both the data and the analysis code, presented as buttons for
 
 ```
 <div class="left"> 
-{% include elements/button.html link="https://github.com/diannepark/diannepark.github.io/blob/main/_data/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
+{% include elements/button.html link="https://us.prairielearn.com/pl/workspace/2399616/container/lab/tree/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
 </div> 
 
 <div class="right"> 
@@ -31,7 +31,7 @@ Below are links to both the data and the analysis code, presented as buttons for
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left"> 
-{% include elements/button.html link="https://github.com/diannepark/diannepark.github.io/blob/main/_data/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
+{% include elements/button.html link="https://us.prairielearn.com/pl/workspace/2399616/container/lab/tree/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
 </div> 
 
 <div class="right"> 
