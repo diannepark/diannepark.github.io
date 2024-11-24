@@ -21,17 +21,9 @@ This project visualizes UFO sightings data using **Altair** and leverages **Stre
 Below are links to both the data and the analysis code, presented as buttons for easy access:
 
 <div class="left"> 
-{% include elements/button.html link="https://github.com/yourusername/ufo-visualizations/blob/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
+{% include elements/button.html link="https://github.com/diannepark/diannepark.github.io/blob/main/_data/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
 </div> 
 
 <div class="right"> 
-{% include elements/button.html link="https://github.com/yourusername/ufo-visualizations/blob/main/ufo_visualizations.ipynb" text="The Analysis" %} 
-</div> 
-
-<div class="left"> 
-{% include elements/button.html link="https://github.com/yourusername/ufo-visualizations/blob/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %} 
-</div> 
-
-<div class="right"> 
-{% include elements/button.html link="https://github.com/yourusername/ufo-visualizations/blob/main/ufo_visualizations.ipynb" text="The Analysis" %} 
+{% include elements/button.html link="https://us.prairielearn.com/pl/workspace/2399616/container/lab/tree/The%20Analysis.ipynb" text="The Analysis" %} 
 </div> 
