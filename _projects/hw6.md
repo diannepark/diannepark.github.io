@@ -1,15 +1,12 @@
 ---
-name: Vega Lite Example Project
-tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+name: UFO Sightings Visualizations (HW6)
+tools: [Python, Altair, Streamlit]
+description: Visualizing UFO sightings with Altair and vega-lite interactive visualizations!
 custom_js:
   - vega.min
   - vega-lite.min
   - vega-embed.min
-  - justcharts
 ---
-
 
 # Homework 6: UFO Sightings Visualizations
 
