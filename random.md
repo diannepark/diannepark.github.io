@@ -1,2 +1,7 @@
-<img src="[https://via.placeholder.com/300](https://github.com/OREL-group/yewonp3_pm/blob/21813ffc6f3c45dbb677867b4002c376d42d3250/Quiz%201/IMG_2642.JPG)" alt="Sample Image" width="300">
+<img src="https://github.com/OREL-group/yewonp3_pm/blob/21813ffc6f3c45dbb677867b4002c376d42d3250/Quiz%201/IMG_2642.JPG" alt="Sample Image" width="300">
 <p><em>Figure 1: This is a sample image with a caption.</em></p>
+
+
+path="[Quiz 1/IMG_2642.JPG]"
+
+<img src="[https://via.placeholder.com/300](https://github.com/OREL-group/yewonp3_pm/blob/21813ffc6f3c45dbb677867b4002c376d42d3250/Quiz%201/IMG_2642.JPG)" alt="Sample Image" width="300">
