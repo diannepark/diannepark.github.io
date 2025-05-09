@@ -1,5 +1,7 @@
 ## MapEdu: Mapping Education and Safety
-Dianne Park (yewonp3), SP25 IS 340 Final Paper, https://www.canva.com/design/DAGmuRsnwgQ/g9TP-6St3wkoNX1VjdPaAg/view?utm_content=DAGmuRsnwgQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b7ed930c5
+Author: Dianne Park (yewonp3)
+Course & Semester: SP25 IS 340 Final Paper
+Presentation Link: https://www.canva.com/design/DAGmuRsnwgQ/g9TP-6St3wkoNX1VjdPaAg/view?utm_content=DAGmuRsnwgQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b7ed930c5
 
 
 ### Introduction/Headings    
