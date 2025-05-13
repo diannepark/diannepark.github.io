@@ -6,11 +6,13 @@ Course & Semester: SP25 IS 340 Final Paper
 
 Presentation Link: https://www.canva.com/design/DAGmuRsnwgQ/g9TP-6St3wkoNX1VjdPaAg/view?utm_content=DAGmuRsnwgQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b7ed930c5
 
-
+---
 
 ### Abstract
 
 Access to education and community safety are foundational aspects of urban development, yet understanding their interplay often remains inaccessible to everyday citizens and policymakers. "MapEdu" is a hypothetical open-source project that seeks to address this gap by providing an interactive data visualization platform that overlays public education data with community safety metrics. While the initial scope is centered on the city of Chicago, the platform is designed to be scalable, adaptable, and inclusive of additional datasets and geographies. This paper outlines the vision, management strategies, technical structure, and open-source principles that guide the development of MapEdu.
+
+---
 
 #### Project Objectives and Vision
 
