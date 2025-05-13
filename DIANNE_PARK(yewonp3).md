@@ -50,7 +50,7 @@ To mitigate these risks, MapEdu employs version pinning to stabilize the develop
 
 | ![](https://github.com/OREL-group/Project-Management/blob/e3269b8d32d8f9e1d260021f91f7445136e3a028/FINAL%20PAPERS/IS%20340%20Workflow.png) | 
 | :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
+| <b>Figure 1.</b> 10 Week Workflow Visualization |   
 
 The project’s development is structured over a 10-week timeline, divided into three key phases. During the first three weeks, the team focuses on defining project objectives and gathering data from publicly available sources. This phase involves cleaning, standardizing, and integrating datasets using spatial joins to align school locations with police beat boundaries.
 
