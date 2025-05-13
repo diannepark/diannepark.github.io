@@ -60,7 +60,7 @@ The project’s development is structured over a 10-week timeline, divided into 
 
 * **Step 3 / Week 3:** Finalize the data schema and establish consistent coordinate systems for geographic mapping. Begin building initial visual prototypes to test data visibility and layering between education and safety data.
 
-In weeks four through seven, the focus shifts to visualization development. The team evaluates different visualization libraries, builds interactive charts, and integrates filters and tooltips to support user exploration. During this stage, the prototype is tested with selected users from different target groups, and feedback is used to refine the design.
+In weeks four through seven, the focus shifts to visualization development. The team evaluates different visualization libraries, builds interactive charts, and integrates filters and tooltips to support user exploration. During this stage, the prototype is tested with selected users from different target groups, and feedback is used to refine the design. During the final weeks, the project is deployed using Streamlit. Documentation is completed and published to ensure that new users and contributors can quickly understand and contribute to the platform. By following this phased workflow, MapEdu maintains agility while ensuring thorough development and testing.
 
 * **Step 4 / Week 4:** Evaluate and experiment with different data visualization libraries such as Altair, Bqplot, and Folium to determine the most effective tools for interactive mapping. Develop initial mockups to assess feasibility and aesthetics.
 
@@ -70,13 +70,7 @@ In weeks four through seven, the focus shifts to visualization development. The 
 
 * **Step 7 / Week 7:** Iterate on the design based on testing insights, making improvements to navigation, visual clarity, and interactivity. Refactor code to ensure modularity and streamline the user experience.
 
-In the final three weeks, the project is deployed using Streamlit. Documentation is completed and published to ensure that new users and contributors can quickly understand and contribute to the platform. By following this phased workflow, MapEdu maintains agility while ensuring thorough development and testing.
-
-* **Step 8 / Week 8:** Begin platform deployment using Streamlit, configuring the server environment for reliability and responsiveness. Resolve any deployment-related bugs or compatibility issues.
-
-* **Step 9 / Week 9:** Draft comprehensive user and developer documentation, including setup guides, data source explanations, and contribution guidelines to support open-source collaboration.
-
-* **Step 10 / Week 10:** Final testing and polish phase—review all platform components for stability, responsiveness, and clarity. Launch the final version of MapEdu and promote the repository for public access and collaboration via GitHub.
+* **Step 8 / Week 8:** Begin platform deployment using Streamlit, configuring the server environment for reliability and responsiveness. Resolve any deployment-related bugs or compatibility issues. Draft comprehensive user and developer documentation, including setup guides, data source explanations, and contribution guidelines to support open-source collaboration. Final testing and polish phase—review all platform components for stability, responsiveness, and clarity. Launch the final version of MapEdu and promote the repository for public access and collaboration via GitHub.
 
 
 ## Project Governance and Sustainability
