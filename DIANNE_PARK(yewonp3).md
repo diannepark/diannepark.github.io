@@ -1,4 +1,4 @@
-## MapEdu: Mapping Education and Safety
+# MapEdu: Mapping Education and Safety
 
 Author: Dianne Park (yewonp3)
 
@@ -8,27 +8,25 @@ Presentation Link: https://www.canva.com/design/DAGmuRsnwgQ/g9TP-6St3wkoNX1VjdPa
 
 ---
 
-### Abstract
+## Abstract
 
 Access to education and community safety are foundational aspects of urban development, yet understanding their interplay often remains inaccessible to everyday citizens and policymakers. "MapEdu" is a hypothetical open-source project that seeks to address this gap by providing an interactive data visualization platform that overlays public education data with community safety metrics. While the initial scope is centered on the city of Chicago, the platform is designed to be scalable, adaptable, and inclusive of additional datasets and geographies. This paper outlines the vision, management strategies, technical structure, and open-source principles that guide the development of MapEdu.
 
 ---
 
-### Project Objectives and Vision
+## Project Objectives and Vision
 
 The core objective of MapEdu is to empower stakeholders with data-driven insights on the relationship between education infrastructure and public safety. Chicago communities, like many urban environments, often lack accessible and integrated information on how educational and safety resources are distributed. MapEdu seeks to solve this by creating a unified platform that visualizes public school locations alongside police beat boundaries. This will assist city planners and school administrators with resource allocation and support families and researchers in evaluating neighborhood dynamics.
 
 In the long-term, MapEdu envisions expansion beyond the city of Chicago. The goal is to incorporate additional datasets, such as transportation infrastructure, healthcare accessibility, or economic indicators, and to scale the platform to include higher education facilities and international data. Through this expansion, MapEdu aims to serve as a global resource for understanding urban equity.
 
-___
 
-### Target User Profiles
+## Target User Profiles
 
 MapEdu has been designed with four primary user groups in mind. First, city planners will benefit from integrated spatial data that enables more equitable and informed policy decisions. These users need tools that help them visualize the overlap of educational facilities and police jurisdictions to better allocate funding and services. Second, school administrators can use MapEdu to understand how school zones intersect with safety jurisdictions, helping them to coordinate with public safety agencies more effectively. Third, prospective parents and students often consider both safety and education quality when choosing where to live. MapEdu will provide them with easy-to-access and reliable data visualizations to support their decision-making. Lastly, researchers focused on urban policy, education, and social equity will find the platform a valuable tool for analyzing correlations and trends across public service domains.
 
 
-
-### Open Source Development Strategy
+## Open Source Development Strategy
 
 The technical foundation of MapEdu relies on a suite of widely adopted open-source tools. For data processing, Python is the core language, supplemented by the Pandas library for handling tabular data and GeoPandas for spatial data analysis. These tools offer robust functionality, a wide community support base, and flexibility necessary for handling diverse and evolving datasets.
 
@@ -39,8 +37,7 @@ To streamline front-end development, Streamlit is employed to deploy the user in
 Lastly, the project is hosted on GitHub, which serves as a centralized platform for version control, collaborative development, and public transparency. GitHub enables the project to be open for contributions, issue tracking, and continuous integration practices.
 
 
-
-### Working Open Principles
+## Working Open Principles
 
 MapEdu is guided by principles of transparency, collaboration, and inclusivity that are at the heart of the "working open" philosophy. All code is maintained with Git and shared via GitHub, with branching strategies and pull request reviews used to manage code integrity and collaboration.
 
@@ -49,8 +46,7 @@ To ensure usability and sustainability, the project features extensive documenta
 The platform is released under an open-source license, such as MIT or GPL, allowing users to freely reuse, adapt, and build upon the software. Contributor guidelines and a code of conduct ensure a welcoming and respectful community. Furthermore, community engagement is maintained through public forums, issue discussions, and periodic virtual meetings to review the roadmap and gather feedback.
 
 
-
-### Technical Debts and Mitigation Strategies
+## Technical Debts and Mitigation Strategies
 
 Like many software projects, MapEdu faces challenges associated with technical debt. These challenges are categorized into three main phases: initial development, long-term maintenance, and mitigation planning.
 
@@ -61,8 +57,7 @@ Over a five-year outlook, other sources of technical debt may arise. Software li
 To mitigate these risks, MapEdu employs version pinning to stabilize the development environment, ensuring that library updates do not unexpectedly break the system. A modular codebase allows individual components to be updated independently, improving maintainability. The platform is designed with cloud hosting in mind, making it easier to migrate to services like AWS or Azure when demand increases. Finally, robust documentation and internal code comments reduce the project’s reliance on any single contributor’s knowledge.
 
 
-
-### Development Workflow and Timeline
+## Development Workflow and Timeline
 
 | ![](https://github.com/OREL-group/Project-Management/blob/e3269b8d32d8f9e1d260021f91f7445136e3a028/FINAL%20PAPERS/IS%20340%20Workflow.png) | 
 | :--: |
@@ -95,8 +90,7 @@ In the final three weeks, the project is deployed using Streamlit. Documentation
 * **Step 10 / Week 10:** Final testing and polish phase—review all platform components for stability, responsiveness, and clarity. Launch the final version of MapEdu and promote the repository for public access and collaboration via GitHub.
 
 
-
-### Project Governance and Sustainability
+## Project Governance and Sustainability
 
 MapEdu adopts a structured but open approach to project governance. A core team of maintainers is responsible for reviewing pull requests, resolving issues, and maintaining the project roadmap. These maintainers are expected to rotate responsibilities to avoid burnout and promote knowledge transfer.
 
@@ -105,8 +99,7 @@ To sustain long-term development, MapEdu explores partnerships with civic techno
 Transparency is a core value. Regular updates on progress, challenges, and community metrics are shared through project newsletters or blog posts. This ensures accountability and builds trust with the user and contributor base.
 
 
-
-### Future Expansion and Impact
+## Future Expansion and Impact
 
 As the platform matures, several paths for expansion are envisioned. MapEdu aims to include additional data types such as environmental quality metrics, public transportation accessibility, and housing data. By layering these datasets, users can gain deeper insights into the structural conditions that affect educational and safety outcomes.
 
@@ -115,7 +108,6 @@ The platform also seeks to expand geographically, integrating data from other U.
 MapEdu’s impact extends beyond software. By conducting workshops and creating educational content, the project will promote open data literacy and community engagement. These efforts support a more informed public and foster a culture of data transparency.
 
 
-
-### Conclusion
+## Conclusion
 
 MapEdu is not just a mapping platform—it is a tool for civic empowerment. By integrating education and safety data into a single, accessible interface and grounding the project in open-source and working open principles, MapEdu seeks to democratize urban data and promote equity. Its modular architecture, community-oriented design, and transparent governance make it a model for future civic tech projects. As the project grows, it will continue to evolve in response to community needs, technological advancements, and new opportunities for collaboration.
