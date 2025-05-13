@@ -91,4 +91,12 @@ As the platform matures, several paths for expansion are envisioned. MapEdu aims
 
 ## Conclusion
 
-MapEdu is not just a mapping platform—it is a tool for civic empowerment. By integrating education and safety data into a single, accessible interface and grounding the project in open-source and working open principles, MapEdu seeks to democratize urban data and promote equity. Its modular architecture, community-oriented design, and transparent governance make it a model for future civic tech projects. As the project grows, it will continue to evolve in response to community needs, technological advancements, and new opportunities for collaboration.
+MapEdu is not just a mapping platform, but it is a tool for civic empowerment. By integrating education and safety data into a single, accessible interface and grounding the project in open-source and working open principles, MapEdu seeks to democratize urban data and promote equity. Its modular architecture, community-oriented design, and transparent governance make it a model for future civic tech projects. As the project grows, it will continue to evolve in response to community needs, technological advancements, and new opportunities for collaboration.
+
+
+---
+
+
+### References     
+
+Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
