@@ -21,7 +21,20 @@ The core objective of MapEdu is to empower stakeholders with data-driven insight
 * Supporting families and researchers in evaluating neighborhood dynamics.
 The long-term vision of MapEdu is to expand the platform to include additional datasets, such as healthcare access or public transportation, and extend its coverage beyond Chicago to other cities and countries. By doing so, MapEdu aims to become a global resource for understanding urban equity.
 
-     
+### Target User Profiles
+MapEdu is designed with four primary user groups in mind:
+* City Planners: who require spatially integrated data to make equitable policy decisions.
+* School Administrators: who need to understand overlapping jurisdictional zones.
+* Parents and Students: seeking insights into neighborhood safety and education quality.
+* Researchers: studying correlations between public services and community outcomes.
+
+### Open Source Development Strategy
+MapEdu’s foundation is built upon widely-used, community-supported open-source tools:
+* Data Processing: Python, Pandas, and GeoPandas handle tabular and spatial data integration.
+* Visualization: Altair and Bqplot enable interactive, filterable, and scalable data visualizations.
+* Front-End Deployment: Streamlit serves as a lightweight framework for deploying the platform.
+* Collaboration: GitHub is used for code hosting, version control, and contributor management.
+Adopting these tools not only lowers development costs but also aligns the project with open innovation principles.
 
 [Comment_5]: <> (begin your text here)
 
