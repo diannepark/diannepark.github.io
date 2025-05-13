@@ -14,8 +14,7 @@ Access to education and community safety are foundational aspects of urban devel
 
 ---
 
-#### Project Objectives and Vision
-
+### Project Objectives and Vision
 The core objective of MapEdu is to empower stakeholders with data-driven insights on the relationship between education infrastructure and public safety. This includes:
 * Visualizing Chicago Public Schools in relation to police beat boundaries.
 * Assisting city planners and school administrators with resource allocation.
