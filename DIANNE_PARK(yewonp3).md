@@ -20,7 +20,7 @@ The core objective of MapEdu is to empower stakeholders with data-driven insight
 
 In the long-term, MapEdu envisions expansion beyond the city of Chicago. The goal is to incorporate additional datasets, such as transportation infrastructure, healthcare accessibility, or economic indicators, and to scale the platform to include higher education facilities and international data. Through this expansion, MapEdu aims to serve as a global resource for understanding urban equity.
 
-
+___
 
 ### Target User Profiles
 
