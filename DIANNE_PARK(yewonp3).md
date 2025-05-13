@@ -48,8 +48,6 @@ To mitigate these risks, MapEdu employs version pinning to stabilize the develop
 ## Development Workflow and Timeline
 
 | ![](https://github.com/OREL-group/Project-Management/blob/e3269b8d32d8f9e1d260021f91f7445136e3a028/FINAL%20PAPERS/IS%20340%20Workflow.png) | 
-| :--: |
-| <b>Figure 1.</b> 10 Week Workflow Visualization |   
 
 * **Week 1 – Identify Project Scope and Goals**
 Define the primary objective of integrating Chicago Public Schools data with Police Beat boundaries to visualize how education and safety resources are distributed. Clarify key visualization features and the intended user base, including policymakers, families, and researchers.
