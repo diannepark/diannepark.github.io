@@ -92,6 +92,6 @@ MapEdu is not just a mapping platform, but it is a tool for civic empowerment. B
 
 Mozilla Science Lab. (2023). Working open. Mozilla Science Leadership Workshop. https://mozillascience.github.io/open-science-leadership-workshop/01.2-working_open.html
 
-Police Beats Data: ttps://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74
+Police Beats Data: https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74
 
 Chicago School Location Data: https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Locations-SY1415/3fhj-xtn5
