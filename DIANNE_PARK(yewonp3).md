@@ -28,22 +28,12 @@ MapEdu has been designed with four primary user groups in mind. First, city plan
 
 ## Open Source Development Strategy
 
-The technical foundation of MapEdu relies on a suite of widely adopted open-source tools. For data processing, Python is the core language, supplemented by the Pandas library for handling tabular data and GeoPandas for spatial data analysis. These tools offer robust functionality, a wide community support base, and flexibility necessary for handling diverse and evolving datasets.
-
-Data visualization is accomplished through libraries such as Altair and Bqplot. These Python-based tools allow the development team to build interactive, customizable visualizations that can be easily integrated into the data pipeline. The visual interface will allow users to explore educational facilities and crime statistics in a single, intuitive dashboard.
-
-To streamline front-end development, Streamlit is employed to deploy the user interface. Streamlit’s simple syntax and ease of integration with Python make it a suitable choice for building and iterating quickly without the complexity of traditional web development frameworks.
-
-Lastly, the project is hosted on GitHub, which serves as a centralized platform for version control, collaborative development, and public transparency. GitHub enables the project to be open for contributions, issue tracking, and continuous integration practices.
+The technical foundation of MapEdu relies on a suite of widely adopted open-source tools. For data processing, Python is the core language, supplemented by the Pandas library for handling tabular data and GeoPandas for spatial data analysis. These tools offer robust functionality, a wide community support base, and flexibility necessary for handling diverse and evolving datasets. Data visualization is accomplished through libraries such as Altair and Bqplot. These Python-based tools allow the development team to build interactive, customizable visualizations that can be easily integrated into the data pipeline. The visual interface will allow users to explore educational facilities and crime statistics in a single, intuitive dashboard. To streamline front-end development, Streamlit is employed to deploy the user interface. Streamlit’s simple syntax and ease of integration with Python make it a suitable choice for building and iterating quickly without the complexity of traditional web development frameworks. Lastly, the project is hosted on GitHub, which serves as a centralized platform for version control, collaborative development, and public transparency. GitHub enables the project to be open for contributions, issue tracking, and continuous integration practices.
 
 
 ## Working Open Principles
 
-MapEdu is guided by principles of transparency, collaboration, and inclusivity that are at the heart of the "working open" philosophy. All code is maintained with Git and shared via GitHub, with branching strategies and pull request reviews used to manage code integrity and collaboration.
-
-To ensure usability and sustainability, the project features extensive documentation. This includes user guides, developer setup instructions, and API references. These resources are updated regularly and structured to support both novice contributors and experienced developers.
-
-The platform is released under an open-source license, such as MIT or GPL, allowing users to freely reuse, adapt, and build upon the software. Contributor guidelines and a code of conduct ensure a welcoming and respectful community. Furthermore, community engagement is maintained through public forums, issue discussions, and periodic virtual meetings to review the roadmap and gather feedback.
+MapEdu is guided by principles of transparency, collaboration, and inclusivity that are at the heart of the "working open" philosophy. All code is maintained with Git and shared via GitHub, with branching strategies and pull request reviews used to manage code integrity and collaboration. To ensure usability and sustainability, the project features extensive documentation. This includes user guides, developer setup instructions, and API references. These resources are updated regularly and structured to support both novice contributors and experienced developers. The platform is released under an open-source license, such as MIT or GPL, allowing users to freely reuse, adapt, and build upon the software. Contributor guidelines and a code of conduct ensure a welcoming and respectful community. Furthermore, community engagement is maintained through public forums, issue discussions, and periodic virtual meetings to review the roadmap and gather feedback.
 
 
 ## Technical Debts and Mitigation Strategies
@@ -92,20 +82,12 @@ In the final three weeks, the project is deployed using Streamlit. Documentation
 
 ## Project Governance and Sustainability
 
-MapEdu adopts a structured but open approach to project governance. A core team of maintainers is responsible for reviewing pull requests, resolving issues, and maintaining the project roadmap. These maintainers are expected to rotate responsibilities to avoid burnout and promote knowledge transfer.
-
-To sustain long-term development, MapEdu explores partnerships with civic technology organizations, educational institutions, and grant-funding bodies. By building a network of collaborators and supporters, the project can access funding, resources, and user feedback critical for long-term success.
-
-Transparency is a core value. Regular updates on progress, challenges, and community metrics are shared through project newsletters or blog posts. This ensures accountability and builds trust with the user and contributor base.
+MapEdu adopts a structured but open approach to project governance. A core team of maintainers is responsible for reviewing pull requests, resolving issues, and maintaining the project roadmap. These maintainers are expected to rotate responsibilities to avoid burnout and promote knowledge transfer. To sustain long-term development, MapEdu explores partnerships with civic technology organizations, educational institutions, and grant-funding bodies. By building a network of collaborators and supporters, the project can access funding, resources, and user feedback critical for long-term success. Transparency is a core value. Regular updates on progress, challenges, and community metrics are shared through project newsletters or blog posts. This ensures accountability and builds trust with the user and contributor base.
 
 
 ## Future Expansion and Impact
 
-As the platform matures, several paths for expansion are envisioned. MapEdu aims to include additional data types such as environmental quality metrics, public transportation accessibility, and housing data. By layering these datasets, users can gain deeper insights into the structural conditions that affect educational and safety outcomes.
-
-The platform also seeks to expand geographically, integrating data from other U.S. cities and eventually international regions. This would allow cross-border comparisons and help highlight best practices or disparities in resource distribution.
-
-MapEdu’s impact extends beyond software. By conducting workshops and creating educational content, the project will promote open data literacy and community engagement. These efforts support a more informed public and foster a culture of data transparency.
+As the platform matures, several paths for expansion are envisioned. MapEdu aims to include additional data types such as environmental quality metrics, public transportation accessibility, and housing data. By layering these datasets, users can gain deeper insights into the structural conditions that affect educational and safety outcomes. The platform also seeks to expand geographically, integrating data from other U.S. cities and eventually international regions. This would allow cross-border comparisons and help highlight best practices or disparities in resource distribution. MapEdu’s impact extends beyond software. By conducting workshops and creating educational content, the project will promote open data literacy and community engagement. These efforts support a more informed public and foster a culture of data transparency.
 
 
 ## Conclusion
