@@ -55,9 +55,30 @@ To mitigate these risks, MapEdu employs version pinning to stabilize the develop
 
 The project’s development is structured over a 10-week timeline, divided into three key phases. During the first three weeks, the team focuses on defining project objectives and gathering data from publicly available sources. This phase involves cleaning, standardizing, and integrating datasets using spatial joins to align school locations with police beat boundaries.
 
+* **Step 1 / Week 1:** Define the core objectives of the MapEdu platform, identifying key social issues related to education and safety in Chicago. Initial datasets from public sources, such as Chicago Public Schools and police beat records, are collected for exploratory review.
+
+* **Step 2 / Week 2:** Conduct thorough data cleaning, including handling missing values, normalizing formats, and checking spatial accuracy. Merge relevant datasets using spatial joins to prepare a unified geospatial foundation for mapping.
+
+* **Step 3 / Week 3:** Finalize the data schema and establish consistent coordinate systems for geographic mapping. Begin building initial visual prototypes to test data visibility and layering between education and safety data.
+
 In weeks four through seven, the focus shifts to visualization development. The team evaluates different visualization libraries, builds interactive charts, and integrates filters and tooltips to support user exploration. During this stage, the prototype is tested with selected users from different target groups, and feedback is used to refine the design.
 
+* **Step 4 / Week 4:** Evaluate and experiment with different data visualization libraries such as Altair, Bqplot, and Folium to determine the most effective tools for interactive mapping. Develop initial mockups to assess feasibility and aesthetics.
+
+* **Step 5 / Week 5:** Create and refine core visualizations including school locations, beat boundaries, and incident overlays. Integrate interactive components such as filters, tooltips, and hover details to improve user engagement.
+
+* **Step 6 / Week 6:** Conduct usability testing sessions with a small group of target users (e.g., parents, planners, researchers) to collect qualitative feedback. Identify pain points and technical issues based on real user interaction.
+
+* **Step 7 / Week 7:** Iterate on the design based on testing insights, making improvements to navigation, visual clarity, and interactivity. Refactor code to ensure modularity and streamline the user experience.
+
 In the final three weeks, the project is deployed using Streamlit. Documentation is completed and published to ensure that new users and contributors can quickly understand and contribute to the platform. By following this phased workflow, MapEdu maintains agility while ensuring thorough development and testing.
+
+* **Step 8 / Week 8:** Begin platform deployment using Streamlit, configuring the server environment for reliability and responsiveness. Resolve any deployment-related bugs or compatibility issues.
+
+* **Step 9 / Week 9:** Draft comprehensive user and developer documentation, including setup guides, data source explanations, and contribution guidelines to support open-source collaboration.
+
+* **Step 10 / Week 10:** Final testing and polish phase—review all platform components for stability, responsiveness, and clarity. Launch the final version of MapEdu and promote the repository for public access and collaboration via GitHub.
+
 
 ### Project Governance and Sustainability
 MapEdu adopts a structured but open approach to project governance. A core team of maintainers is responsible for reviewing pull requests, resolving issues, and maintaining the project roadmap. These maintainers are expected to rotate responsibilities to avoid burnout and promote knowledge transfer.
