@@ -59,33 +59,19 @@ In weeks four through seven, the focus shifts to visualization development. The 
 
 In the final three weeks, the project is deployed using Streamlit. Documentation is completed and published to ensure that new users and contributors can quickly understand and contribute to the platform. By following this phased workflow, MapEdu maintains agility while ensuring thorough development and testing.
 
-[Comment_5]: <> (begin your text here)
+### Project Governance and Sustainability
+MapEdu adopts a structured but open approach to project governance. A core team of maintainers is responsible for reviewing pull requests, resolving issues, and maintaining the project roadmap. These maintainers are expected to rotate responsibilities to avoid burnout and promote knowledge transfer.
 
-__Paragraph heading__         
+To sustain long-term development, MapEdu explores partnerships with civic technology organizations, educational institutions, and grant-funding bodies. By building a network of collaborators and supporters, the project can access funding, resources, and user feedback critical for long-term success.
 
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+Transparency is a core value. Regular updates on progress, challenges, and community metrics are shared through project newsletters or blog posts. This ensures accountability and builds trust with the user and contributor base.
 
+### Future Expansion and Impact
+As the platform matures, several paths for expansion are envisioned. MapEdu aims to include additional data types such as environmental quality metrics, public transportation accessibility, and housing data. By layering these datasets, users can gain deeper insights into the structural conditions that affect educational and safety outcomes.
 
-### Conclusion      
+The platform also seeks to expand geographically, integrating data from other U.S. cities and eventually international regions. This would allow cross-border comparisons and help highlight best practices or disparities in resource distribution.
 
-[Comment_7]: <> (begin your text here)
+MapEdu’s impact extends beyond software. By conducting workshops and creating educational content, the project will promote open data literacy and community engagement. These efforts support a more informed public and foster a culture of data transparency.
 
-
-### References     
-
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
-
-
-
-[Comment_1]: <> (begin your text here)
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-#### Subheading
-[Comment_3]: <> (begin your text here)
-
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
-
-[Comment_4]: <> (Insert Figure with caption here)
+### Conclusion
+MapEdu is not just a mapping platform—it is a tool for civic empowerment. By integrating education and safety data into a single, accessible interface and grounding the project in open-source and working open principles, MapEdu seeks to democratize urban data and promote equity. Its modular architecture, community-oriented design, and transparent governance make it a model for future civic tech projects. As the project grows, it will continue to evolve in response to community needs, technological advancements, and new opportunities for collaboration.
