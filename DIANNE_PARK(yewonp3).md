@@ -55,31 +55,31 @@ To mitigate these risks, MapEdu employs version pinning to stabilize the develop
 
 * **Week 2 – Data Acquisition**
 
-Collect relevant datasets from public resources, including school location data and police jurisdiction data. Review the completeness and update frequency of each dataset to identify any coverage gaps or inconsistencies.
+  Collect relevant datasets from public resources, including school location data and police jurisdiction data. Review the completeness and update frequency of each dataset to identify any coverage gaps or inconsistencies.
 
 * **Week 3 – Data Cleaning and Preprocessing**
 
-Ensure consistency across datasets by normalizing formats, correcting missing or inaccurate values, and aligning coordinate systems. Use spatial joins to link school locations with corresponding police beat areas to enable meaningful geographic analysis.
+  Ensure consistency across datasets by normalizing formats, correcting missing or inaccurate values, and aligning coordinate systems. Use spatial joins to link school locations with corresponding police beat areas to enable meaningful geographic analysis.
 
 * **Week 4 – Visualization Library Selection**
 
-Assess potential visualization libraries such as Altair, Bqplot, Folium, and Plotly based on their ability to support interactivity, geographic mapping, and integration with Streamlit. Identify limitations in data rendering or UI flexibility.
+  Assess potential visualization libraries such as Altair, Bqplot, Folium, and Plotly based on their ability to support interactivity, geographic mapping, and integration with Streamlit. Identify limitations in data rendering or UI flexibility.
 
 * **Week 5 – Build Visualizations and Interactive Features**
 
-Begin developing core visual elements, including school density maps and beat boundary overlays. Add interactive features such as filters by neighborhood, school type, or safety metric, along with tooltips for incident detail exploration.
+  Begin developing core visual elements, including school density maps and beat boundary overlays. Add interactive features such as filters by neighborhood, school type, or safety metric, along with tooltips for incident detail exploration.
 
 * **Week 6 – Usability Testing and Iteration**
 
-Conduct testing sessions with selected stakeholders, including parents, planners, and researchers. Gather feedback on visual clarity, functionality, and navigation. Refine the platform’s interface and features based on input.
+  Conduct testing sessions with selected stakeholders, including parents, planners, and researchers. Gather feedback on visual clarity, functionality, and navigation. Refine the platform’s interface and features based on input.
 
 * **Week 7 – Platform Deployment**
 
-Deploy the platform using Streamlit, ensuring performance stability and responsive interaction. If scalability or concurrency issues are detected, begin planning a transition to a cloud-based solution such as AWS or Azure.
+  Deploy the platform using Streamlit, ensuring performance stability and responsive interaction. If scalability or concurrency issues are detected, begin planning a transition to a cloud-based solution such as AWS or Azure.
 
 * **Week 8 – Documentation and Support Planning**
 
-Create detailed user and developer guides to facilitate long-term use and community contributions. Develop a proactive maintenance plan for addressing data updates, dependency upgrades, and feature enhancements as the platform evolves.
+  Create detailed user and developer guides to facilitate long-term use and community contributions. Develop a proactive maintenance plan for addressing data updates, dependency upgrades, and feature enhancements as the platform evolves.
 
 
 ## Project Governance and Sustainability
