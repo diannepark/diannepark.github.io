@@ -19,6 +19,8 @@ The core objective of MapEdu is to empower stakeholders with data-driven insight
 
 In the long-term, MapEdu envisions expansion beyond the city of Chicago. The goal is to incorporate additional datasets, such as transportation infrastructure, healthcare accessibility, or economic indicators, and to scale the platform to include higher education facilities and international data. Through this expansion, MapEdu aims to serve as a global resource for understanding urban equity.
 
+-
+
 ### Target User Profiles
 MapEdu has been designed with four primary user groups in mind. First, city planners will benefit from integrated spatial data that enables more equitable and informed policy decisions. These users need tools that help them visualize the overlap of educational facilities and police jurisdictions to better allocate funding and services. Second, school administrators can use MapEdu to understand how school zones intersect with safety jurisdictions, helping them to coordinate with public safety agencies more effectively. Third, prospective parents and students often consider both safety and education quality when choosing where to live. MapEdu will provide them with easy-to-access and reliable data visualizations to support their decision-making. Lastly, researchers focused on urban policy, education, and social equity will find the platform a valuable tool for analyzing correlations and trends across public service domains.
 
